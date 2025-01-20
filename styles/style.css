@@ -74,18 +74,47 @@ nav ul li {
 .banner-title{
 font-weight: 700px;
 font-size: 85px;
-/* text-align: left; */
+
 }
 .banner-des{
 font-weight: 400px;
 font-size: 18px;
-/* text-align: left; */
+
 }
 .banner-pic{
     width: 584px;
-    /* height: 667px;; */
-/* margin-top: 161px;
-margin-left: 978px; */
+    
 
 }
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.section-des{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(117, 117, 117);
+}
 
+.secondary-bg{
+    background-color: #fff8f3;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+ .team-description{
+    font-weight:600;
+}
+.about-iteams{
+    display: flex;
+    justify-content: space-around;
+}
